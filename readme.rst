@@ -68,3 +68,11 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Tugas 8 PBKK-C
+***************
+
+Fransiskus Xaverius Kevin Koesnadi (18-0162)
+
+Tugas 8: *CodeIgniter*
